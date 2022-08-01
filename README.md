@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sallyyyyhuang pursuing my bachelor degree in Computer Information Systems at Arizona State University.
-- 👀 I’m interested in data analytics, data science and maching learning.
+- 👀 I’m interested in data analytics, data science and machine learning.
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me...email me sally91624@gmail.com
 
