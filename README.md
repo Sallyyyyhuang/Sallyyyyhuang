@@ -36,6 +36,14 @@ I enjoy working on projects involving:
 - Oracle SQL
 - Elastic
 
+### AI & Developer Tools
+- MCP Servers
+- Claude CLI
+- Github Copilot
+- AI-assisted development workflows
+- Prompt engineering
+- LLM tooling exploration
+
 ---
 
 ## Featured Projects
@@ -68,7 +76,7 @@ Data transformation and modeling project using dbt, focused on building clean an
 ---
 
 ## Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/yu-hsuan411/]
+- LinkedIn: https://www.linkedin.com/in/yu-hsuan411/
 <!---
 Sallyyyyhuang/Sallyyyyhuang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
