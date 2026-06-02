@@ -3,6 +3,7 @@
 ## About Me
 
 Hi, I am Sally Huang from Taiwan🧋, currently working in Chandler, AZ 🌵.
+
 I'm a software Engineer 👩‍💻 interested in data engineering, analytics, AI, and data-driven solutions.  
 
 Currently building experience in backend systems, workflow orchestration, and scalable data infrastructure using SQL and Python.
