@@ -26,10 +26,11 @@ I enjoy working on projects involving:
 - Ruby
 
 ### Data & Analytics
+- Airflow
+- Prefect
+- Kafka
 - dbt
 - Snowflake
-- Prefect
-- Airflow
 - Pandas
 
 ### Tools & Platforms
@@ -37,7 +38,7 @@ I enjoy working on projects involving:
 - Linux
 - Windows Server
 - MinIO / S3
-- Oracle SQL
+- Oracle PL/SQL
 - Elastic
 
 ### AI & Developer Tools
