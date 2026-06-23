@@ -53,6 +53,9 @@ I enjoy working on projects involving:
 
 ## Featured Projects
 
+### Manufacturing Knowledge Assistant
+AI-powered knowledge base for manufacturing documents. Upload documents (PDF, Word, Excel, TXT), ask questions, and get cited answers powered by RAG (Retrieval-Augmented Generation).
+
 ### C# Capstone Project
 Backend-focused application built with C# and .NET, emphasizing object-oriented programming and application design.
 
