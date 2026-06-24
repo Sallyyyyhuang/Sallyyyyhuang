@@ -31,15 +31,18 @@ I enjoy working on projects involving:
 - Kafka
 - dbt
 - Snowflake
+- Oracle
 - Pandas
 
-### Tools & Platforms
+### DevOps & CI/CD
+- Azure DevOps Pipelines
 - Git & GitHub
 - Linux
 - Windows Server
-- MinIO / S3
-- Oracle PL/SQL
+
+### Tools & Platforms
 - Elastic
+- MinIO / S3
 
 ### AI & Developer Tools
 - MCP Servers
